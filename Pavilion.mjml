@@ -1,0 +1,124 @@
+<mjml version="3.3.3">
+  <mj-head>
+    <mj-title>Openings for Patients</mj-title>
+    <mj-attributes>
+      <mj-all
+        line-height="140%"
+        font-family="Helvetica, sans-serif;"/>
+      <mj-text
+        color="#6B6B6B"
+        font-size="11pt"/>
+      <mj-class name="content"
+        background-color="#FFF"
+        padding-top="0"
+        padding-bottom="0"/>
+      <mj-class name="title-block"
+          background-color="#F1F1F1"
+          padding-top="0"
+          padding-bottom="0" />
+      <mj-class name="white-box"
+          background-color="#FFF"
+          padding-top="0"
+          padding-bottom="30px"/>
+      <mj-class name="gray-box"
+          background-color="#F2EFDA"
+          padding-top="0"
+          padding-bottom="0"
+          width="90%"/>
+      <mj-class name="blue-box"
+          background-color="#7aa5b4;"
+          padding-top="0"
+          padding-bottom="0" />
+      <mj-class name="footer"
+        full-width="full-width"
+        background-color="#FFF"/>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a { color: #7aa5b4; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F1F1F1">
+    <mj-wrapper border="1px solid #767676" padding-top="0" padding-bottom="0">
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-image src="https://pavilionwp.com/sites/default/files/images/PAV_HeaderA_1.jpg" width="640" height="141" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="title-block">
+      <mj-column>
+        <mj-text ><h1 style="color: #7aa5b4; text-align: center; font-size: 1.5em;">Mental Health with a Heart</h1></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text >
+          <p><strong>Dear colleague,</strong></p>
+          <p>This email is to inform you that we have openings for patients in need of inpatient psychiatric care. </p>
+          <h2 style="color: #7aa5b4; font-size: 1.1em;">CURRENT OPEN AVAILABILITY</h2>
+          <p><strong>Geriatric Unit - Open Beds Available</strong><br />
+            <a href="https://pavilionwp.com/admissions">Learn more about our Geriatric program</a></p>
+          <p><strong>Acute Unit - Open Beds Available</strong><br />
+            <a href="https://pavilionwp.com/admissions">Learn more about our Acute Adult program</a></p>
+          <p><strong>Mood Disorder Unit - Open Beds Available</strong><br />
+            <a href="https://pavilionwp.com/admissions">Learn more about our Mood Disorder program</a></p>
+          <p>Please respond to this email with any bed access issues.</p>
+          <p>Sincerely,<br />
+             Eric</p>
+          <p style="font-style: italic;">Eric Rhodes<br />
+            The Pavilion at Williamsburg Place<br />
+            <a href="https://maps.google.com/?q=5483+Mooretown+Road+Williamsburg,+VA+23188&entry=gmail&source=g">5483 Mooretown Road<br />
+            Williamsburg, VA 23188</a><br />
+            Direct Line:(757) 565-0106<br />
+            Fax: (757)941-6419</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="white-box">
+      <mj-column mj-class="gray-box">
+        <mj-text>
+          <h3 style="color: #7aa5b4; margin-bottom: 0; padding-bottom: 0;">TDO INFORMATION</h3>
+          <p style="margin-top: 0;"><strong>TDO Hearings</strong><br />
+            Mondays at 3:00 p.m.<br />
+            Wednesdays, Fridays at 11:30 a.m.</p>
+          <p><em>Please note: TDO patients must be admitted by 12:00 p.m. to attend a hearing the following day. Those admitted after 12:00 p.m. will attend the subsequent available hearing. Home CSB Emergency Services will be called at hearing time to attend hearings by phone unless other arrangements have been made in advance between home CSB and Colonial Behavioral Health.</em></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="blue-box">
+      <mj-column>
+        <mj-text><h2 style="color: #FFF; text-align: center; font-size: 1.5em;">Insurance Accepted</h2></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text align="center">
+          <p>Anthem (BCBS), Value Options (non-commerical/HMO), Aetna, Cigna, CompPsych, Optima (both managed Medicaid and commerical products), Medicare.</p>
+          <p><em>Other insurances are considered based on out-of-network benefits ﻿and single case agreements.</em></p>
+          <p><em>Please note: Medicaid does not provide full coverage for patients between 18-65 yrs old. All VA Premiere coverage is considered out-of-network.</em></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="blue-box">
+      <mj-column>
+        <mj-text><h2 style="color: #FFF; text-align: center; font-size: 1.5em; line-height: 130%;">To Make a Referral call 800-582-6066<br />or 757-941-6410 for Admissions<br/>Fax: 757-941-6419</h2></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text align="center" font-size="9pt">
+          <p>This email message is intended only for the party or entity addressed. It may contain information that is confidential, not to be disclosed. Anyone receiving this email other than the intended party, is hereby notified that dissemination, distribution, or copying of the communication is prohibited.</p>
+          <p>IF YOU RECEIVE THIS EMAIL IN ERROR, please contact us by phone at the number listed above or the email address also listed above.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-wrapper>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text align="center" font-size="9pt">
+          <p>The Pavilion | <a href="https://maps.google.com/?q=5483+Mooretown+Road+,+Williamsburg,+VA+23188&entry=gmail&source=g">5483 Mooretown Road, Williamsburg, VA 23188</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

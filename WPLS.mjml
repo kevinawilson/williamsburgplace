@@ -1,0 +1,90 @@
+<mjml version="3.3.3">
+  <mj-head>
+    <mj-title>The Farley Center</mj-title>
+    <mj-attributes>
+      <mj-text
+        font-family="-webkit-system-font, Helvetica Neue, Helvetica, sans-serif"
+        color="#000000"
+        font-size="13pt"/>
+      <mj-class name="content"
+        background-color="#FFFFFF"
+        padding-top="0"
+        padding-bottom="0"/>
+      <mj-class name="pre-footer"
+          color="#808080"
+          background-color="#D8D8D8"
+          padding="5px 25px"/>
+      <mj-class name="footer"
+        full-width="full-width"
+        background-color="#FFFFFF"/>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        *[class~=hide-on-mobile] { display: none !important;}
+       }
+
+       h3 {
+         padding-top: 10px;
+         font-style: italic;
+       }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F4F4F4" >
+    <mj-section padding="20px 20px" background-color="#FFF">
+      <mj-column css-class="hide-on-mobile">
+        <mj-image width="80" align="left" src="http://www.farleycenter.com/sites/default/files/emails/logo.png" width="640" height="141" padding="0" />
+      </mj-column>
+      <mj-column vertical-align="bottom" >
+        <mj-image padding-top="10px" src="http://www.farleycenter.com/sites/default/files/emails/wpls/farley-wpls.png" width="640" height="141" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-image padding="0" src="http://www.farleycenter.com/sites/default/files/emails/header.jpg">
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text>
+          <p style="margin-bottom: 50px; padding: 10px; border: 2px black solid; font-size: 20pt; line-height: 120%; font-weight: 700; color: #BA2B01; ">Please <a style="color: #800000;" href="https://farleycenter.com/professional/events-calendar/ill-never-miss-it">register on our website</a> to reserve your spot for this event. We are unable to process emailed registration requests at this time.</p>
+          <h1 style="color: #800000;">I’ll Never Miss It: The Grief Process and The Stages of Recovery</h1>
+          <h2 style="color: #BA2B01;">6/22/2018 &ndash; 9am to 11am</h2>
+        </mj-text>
+        <mj-button align="left" background-color="#BA2B01" color="#FFFFFF">
+          Register
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0">
+          <h3 style="color: #800000; margin-bottom:0; padding-bottom:0;">Speaker</h3>
+          <p><strong>John McClanahan, Ph.D., CCDC, LCAD</strong><br>
+            Principal, Senior Provider<br>
+            McClanahan &amp; Associates<br>
+            Annapolis, MD</p>
+          <h3 style="color: #800000; margin-bottom:0; padding-bottom:0;">About the Speaker</h3>
+          <p>Dr. John McClanahan is the Principle Provider at McClanahan and Associates in Annapolis, Maryland. He has been an educator in substance abuse for over forty years and a treatment provider for over thirty years. He has been a provider of education and treatment services for both the public and private sectors. He has been a popular guest on many radio shows for a number of years. His unique presentation style combines motivation, enthusiasm, humor and warmth.</p>
+          <p>He holds a Doctorate of Philosophy in Counseling, is a Certified Chemical Dependency Counselor, and is a Licensed Clinical Alcohol and Drug Counselor. He is the author of several works on addiction. He is the presenter in the video <em>Relapse: The Seven Letter Dirty Word</em> and fifteen other titles. He has national recognition in the field of addiction and it’s treatment. In addition to his private practice and various other projects, he is a visiting guest lecturer at Father Martin’s Ashley and several other internationally recognized treatment facilities.</p>
+          <h3 style="color: #800000; margin-bottom:0; padding-bottom:0;">Program Overview</h3>
+          <p>In this presentation we will focus on the comparison between the various stages of dealing with a loss and the stages of the recovery process. There is a unique bond between the two, and understanding this connection can be extremely helpful, especially early in the individual’s recovery. This topic will be presented as a lecture, discussion, and interactive exercise.</p>
+          <h3 style="color: #800000; margin-bottom:0; padding-bottom:0;">Location</h3>
+          <p>The Pavilion at Williamsburg Place<br>
+            5483 Mooretown Road, Williamsburg, VA 23188</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="pre-footer">
+      <mj-text font-size="10pt">
+        <p style="margin-bottom: 30px;"><em>Copyright © 2018 The Farley Center. All rights reserved.</em></p>
+        <p><a href="http://farleycenter.com/opt-out">Unsubscribe</a></p>
+      </mj-text>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text align="center">
+          <p>The Farley Center | 5477 Mooretown Road, Williamsburg, VA 23188</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

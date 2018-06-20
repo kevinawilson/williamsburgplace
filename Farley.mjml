@@ -1,0 +1,70 @@
+<mjml version="3.3.3">
+  <mj-head>
+    <mj-title>The Farley Center</mj-title>
+    <mj-attributes>
+      <mj-text
+        font-family="serif"
+        color="#000000"
+        font-size="12pt"/>
+      <mj-class name="content"
+        background-color="#FFFFFF"
+        padding-top="0"
+        padding-bottom="0"/>
+      <mj-class name="footer"
+        full-width="full-width"
+        background-color="#FFFFFF"/>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#767676" >
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-image src="http://files.constantcontact.com/51d0105e601/f1ac589d-1eef-496b-898b-df5da5e249ed.jpg" width="640" height="141" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text >
+          <h1 style="color: #800000;">An Appeal to Help Others</h1>
+          <p>I have personally found my responsibility to help another stay sober has brought great joy to my life. It is not always an easy path to trudge. There have been many who have lost their way even after months or years of suggestions from my own experience which has often left me disappointed and doubting my ability to be of useful service. Yet it is in these perceived failures to assist in another’s recovery that I am reminded again and again of my primary purpose, to carry the message helps me stay sober, and it has bared fruit. </p>
+          <p>As a care manager here at the Farley Center, I have been given a wonderful platform to spread the good news. I continue to learn patience in my practice of the 12 steps not just in helping another, but in all my affairs. I am reminded daily and moved by so many who come through the doors of the Farley Center in so much pain, some of which know this may be their last chance at this thing called life, and are succeeding. I have looked for purpose and purpose found me in sobriety.</p>
+          <p>My problems were of my own making. Once I accepted this and became willing, I found the key to open the door to help others do the same. In saying all this, I am asking for help. We would like to post articles/stories from those alumni in recovery who wish to let others know of their own experiences in helping others stay sober.</p>
+        </mj-text>
+        <mj-divider border-width="2px" border-color="#767676" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0">
+          <h2 style="color: #800000; margin-bottom:0; padding-bottom:0;">Helping Others on the Recovery Journey</h2>
+          <p><em>By Michael Rass</em></p>
+          <p>When starting his recovery journey over eight years ago, Jay Sexton was filled with a sense of trepidation about the challenges ahead.</p>
+          <p><a style="color: #800000; text-decoration: none;" href="https://farleycenter.com/Helping-Others-on-the-Recovery-Journey">Read More</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://fthmb.tqn.com/uytGhJL19kQZT8glOIDF8oNs0Sk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/gi-carved-healing-stone-58b9785a3df78c353cdd30bc.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="content">
+      <mj-column background-color="#FFFFFF">
+        <mj-divider border-width="2px" border-color="#767676" />
+        <mj-spacer height="30px" />
+        <mj-social icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" border-radius="15px" href="https://www.facebook.com/The-Farley-Center-at-Williamsburg-Place-103629396395484/" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="youtube" src="https://imgssl.constantcontact.com/galileo/images/templates/Galileo-SocialMedia/youtube-visit-default.png" href="https://www.youtube.com/channel/UCuqSCIjqmSn4_Jm_1VhTNAA"
+          color="#FF0000">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text align="center">
+          <p>The Farley Center | 5477 Mooretown Road, Williamsburg, VA 23188</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
